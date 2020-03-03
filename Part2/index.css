@@ -53,3 +53,10 @@ section span:nth-of-type(3) {
   width: 100px;
   border: 1px solid #000;
 }
+
+#idInput,
+#colorInput,
+#button {
+  width: 90px;
+  height: 40px;
+}
